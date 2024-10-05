@@ -48,8 +48,15 @@ Di bagian bawah judul terdapat keterangan atau card yang terdiri dari dropout ra
 3.  Diagram batang jumlah siswa berdasarkan jenis kelamin (gender) untuk memberikan gambaran tentang komposisi gender di institut.
 4.  Diagram batang dropout siswa berdasarkan program studi untuk mengidentifikasi program studi mana yang memiliki masalah dropout lebih tinggi
 5.  Diagram batang jumlah siswa berdasarkan waktu kehadiran mereka (daytime atau evening) untuk memberikan gambaran tentang preferensi waktu kuliah siswa.
+
+[Dashbord](https://7zvlmyqrhtbbpidmlw6zuj.streamlit.app/)
 ## Menjalankan Sistem Machine Learning
-Jelaskan cara menjalankan protoype sistem machine learning yang telah dibuat. Selain itu, sertakan juga link untuk mengakses prototype tersebut.
+Langkah-langkah menggunakan sistem machine learning berbasis random forest adalah sebagai berikut.
+1.  Membuka link https://7zvlmyqrhtbbpidmlw6zuj.streamlit.app/
+2.  Memilih "Prediction"<br>
+![1728116121175](img/image.png)
+3.  Mengisi data yang dibutuhkan. Perlu diperhatikan bahwa nilai jurusan atau Course tidak boleh 'None' serta terdapat batas minimum dan maksimum pada input numerik. Selain itu, pengguna harus menekan enter agar dapat menyimpan data numerik.<br>
+
 
 ```
 
